@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Wilco Doll Archive</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<header>
+    <h1>🎀 Wilco Doll Archive</h1>
+    <p>Preserving Wilco Dolls & Weeteens</p>
+</header>
+
+<nav>
+    <a href="index.html">Home</a>
+    <a href="gallery.html">Gallery</a>
+    <a href="mystery.html">Mystery</a>
+    <a href="weteens.html">Weeteens</a>
+    <a href="about.html">About</a>
+</nav>
+
+<main>
+
+<section class="hero">
+<h2>Welcome!</h2>
+
+<p>
+Welcome to the Wilco Doll Archive.
+This website is dedicated to documenting Wilco dolls,
+Weeteens, mystery dolls and other related collections.
+</p>
+
+<a class="button" href="gallery.html">Browse Gallery</a>
+
+</section>
+
+<section>
+
+<h2>Latest Updates</h2>
+
+<ul>
+<li>🌸 Version 5 launched</li>
+<li>🧸 New gallery coming soon</li>
+<li>🎀 More dolls being added regularly</li>
+</ul>
+
+</section>
+
+</main>
+
+<footer>
+
+© 2025 Wilco Doll Archive
+
+</footer>
+
+</body>
+</html>
